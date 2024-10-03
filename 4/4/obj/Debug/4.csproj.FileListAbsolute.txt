@@ -1,0 +1,10 @@
+C:\ComputerGraph\4\4\bin\Debug\4.exe.config
+C:\ComputerGraph\4\4\bin\Debug\4.exe
+C:\ComputerGraph\4\4\bin\Debug\4.pdb
+C:\ComputerGraph\4\4\obj\Debug\4.csproj.AssemblyReference.cache
+C:\ComputerGraph\4\4\obj\Debug\_4.Form1.resources
+C:\ComputerGraph\4\4\obj\Debug\_4.Properties.Resources.resources
+C:\ComputerGraph\4\4\obj\Debug\4.csproj.GenerateResource.cache
+C:\ComputerGraph\4\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+C:\ComputerGraph\4\4\obj\Debug\4.exe
+C:\ComputerGraph\4\4\obj\Debug\4.pdb
